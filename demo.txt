@@ -1,0 +1,1 @@
+-dataCenter Pacific-Datacenter -cluster Workload-Cluster -vmfolder demo -dataStore vsanDatastore -standardPortGroup "VM Network" -server <<server-name>> -username <<user-name>> -password <<password>> -skipServerVerification $True
